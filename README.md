@@ -1,4 +1,4 @@
-sysmon
+SysMon
 ======
 
-Sywtem wide detailed monitoring
+System wide detailed monitoring
